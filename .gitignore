@@ -1,0 +1,12 @@
+# Ignore datasets
+data/
+*.csv
+*.xlsx
+
+# Ignore model weights
+models/
+*.pkl
+*.h5
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
